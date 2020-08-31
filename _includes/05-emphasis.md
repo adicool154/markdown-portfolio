@@ -1,1 +1,1 @@
-__I am writing a bold and an **ITALICS** text.__
+__I am writing a bold and an *ITALICS* text.__
